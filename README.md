@@ -30,13 +30,20 @@ pip install -r requirements.txt
 GOOGLE_API_KEY = "API KEY HERE"
 ```
 
-4. Run the script
+## Usage
+
+1. Go to script path
+```bash
+cd ./pdf-summarizer-gemini
+```
+
+2. Run the script
 
 ```bash
 python summarize.py
 ```
 
-5. Enter your PDF file's path
+3. Enter your PDF file's path
 
 ```bash
 "C:/Users/USERNAME/Documents/PDFs/example.pdf"
