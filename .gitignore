@@ -2,7 +2,7 @@
 venv/
 .env
 
-.txt
+to remember.txt
 
 # Python cache files
 __pycache__/
