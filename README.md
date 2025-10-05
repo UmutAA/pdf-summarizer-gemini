@@ -16,6 +16,7 @@ A Python script that reads the first page of a PDF, summarizes its content, and 
 ```bash
 git clone https://github.com/UmutAA/pdf-summarizer-gemini.git
 cd pdf-summarizer-gemini
+``` 
 
 2. Download required packages
 
