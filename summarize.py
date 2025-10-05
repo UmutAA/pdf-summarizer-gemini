@@ -19,7 +19,7 @@ with open(pdf_path, "rb") as f:
 
 prompt = (
     "You are a helpful assistant willing to help me learn things with ease. "
-    "Summarize the text below and give me the key words I need to learn:\n\n"
+    "Summarize the text below in a few sentences and give me the key words I need to learn:\n\n"
     + pdf_text
 )
 

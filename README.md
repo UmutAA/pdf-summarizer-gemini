@@ -4,7 +4,8 @@ A Python script that reads a given PDF file, summarizes its content, and extract
 
 ## Features
 
-- Extracts text from the first page of any PDF file.
+- Finds the PDF file from the given path.
+- Extracts text from the PDF file.
 - Summarizes the text in a few sentences.
 - Provides a list of key keywords.
 - Built with Python and Gemini 2.5 Flash Lite API.
