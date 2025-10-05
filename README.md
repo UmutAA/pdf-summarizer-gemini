@@ -1,6 +1,6 @@
 # PDF Summarizer with Gemini 2.5 Flash Lite
 
-A Python script that reads the first page of a PDF, summarizes its content, and extracts key keywords using **Gemini 2.5 Flash Lite**.
+A Python script that reads a given PDF file, summarizes its content, and extracts key keywords using **Gemini 2.5 Flash Lite**.
 
 ## Features
 
