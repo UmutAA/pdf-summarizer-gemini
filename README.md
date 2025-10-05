@@ -16,3 +16,23 @@ A Python script that reads the first page of a PDF, summarizes its content, and 
 ```bash
 git clone https://github.com/UmutAA/pdf-summarizer-gemini.git
 cd pdf-summarizer-gemini
+
+2. Download required packages
+
+```bash
+pip install -r requirements.txt
+
+3. Create an .env file and add your API key 
+
+```bash
+GOOGLE_API_KEY = "API KEY HERE"
+
+4. Run the script
+
+```bash
+python summarize.py
+
+5. Enter your PDF file's path
+
+```bash
+"C:/Users/USERNAME/Documents/PDFs/example.pdf"
